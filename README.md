@@ -24,7 +24,7 @@ Displays column names
 Shows data types (int, object)
 Shows non-null values
 Indicates memory usage
-✔Shape of Dataset
+Shape of Dataset
 df.shape
 Gives total rows and total columns.
 Column Names
